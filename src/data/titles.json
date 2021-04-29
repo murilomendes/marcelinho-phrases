@@ -1,181 +1,119 @@
 {
   "titles": [
     {
-      "name": "HTML Programmer",
+      "name": "Se tem uma coisa que eu não sou é obrigado",
       "background": "#E65D12",
       "color": "#ffffff"
     },
     {
-      "name": "jQuery Artisan",
+      "name": "Os cara ficou sem entender nada",
       "background": "#141E30",
       "color": "#ffffff"
     },
     {
-      "name": "Markdown Specialist Developer",
+      "name": "Se loco cachorro/cachorrera",
       "background": "#f12711",
       "color": "#ffffff"
     },
     {
-      "name": "Fullstack Front-end Developer",
+      "name": "Dexamo os cara em shock",
       "background": "#654ea3",
       "color": "#ffffff"
     },
     {
-      "name": "Fullstack Game Developer",
+      "name": "Alguma coisa GRAÇAS A DEUS",
       "background": "#ad5389",
       "color": "#ffffff"
     },
     {
-      "name": "UI Developer Specialist",
+      "name": "Eu tô embassado",
       "background": "#dd1818",
       "color": "#ffffff"
     },
     {
-      "name": "Jr FrontPage Specialist",
+      "name": "Ah mano, tudo eu?",
       "background": "#22BE4B",
       "color": "#ffffff"
     },
     {
-      "name": "JS Philosopher",
+      "name": "Aloja de Itapê",
       "background": "#F6A808",
       "color": "#131415"
     },
     {
-      "name": "Sr Webmaster",
+      "name": "Pera ae que a comida chegou he he he",
       "background": "#CECC9E",
       "color": "#131415"
     },
     {
-      "name": "Jr Web Designer",
+      "name": "M-E-I-O NÃO TROCA!",
       "background": "#114B55",
       "color": "#ffffff"
     },
     {
-      "name": "Automation Craftsman",
+      "name": "Ah bano, esse cara merece um câncer",
       "background": "#9F9F9F",
       "color": "#ffffff"
     },
     {
-      "name": "Sr Log Reader",
+      "name": "Se continuar xingando vou mutar vocês",
       "background": "#FEC9B1",
       "color": "#131415"
     },
     {
-      "name": "VanillaJS Guru",
+      "name": "Fala agora vai, fala de mim agora",
       "background": "#f0d91c",
       "color": "black"
     },
     {
-      "name": "Website Maker",
+      "name": "aaaa que posição idiota",
       "background": "#4B335F",
       "color": "#23C7EB"
     },
     {
-      "name": "Spaghetti Code Enthusiast",
+      "name": "vai se fude esse arrombado olha onde ele fica",
       "background": "#FDCF50",
       "color": "#76040A"
     },
     {
-      "name": "Flash Trainee",
+      "name": "num jogo mais com você(s)",
       "background": "#5c2626",
       "color": "#fe0000"
     },
     {
-      "name": "esreveR gnireenignE repoleveD",
+      "name": "ah mano que doente",
       "background": "#A8CFFE",
       "color": "#0F0A58"
     },
     {
-      "name": "Head of Bug Development",
+      "name": "desinstalei ja essa bosta de jogo",
       "background": "#232425",
       "color": "#78F54A"
     },
     {
-      "name": "Brogrammer",
+      "name": "alo, é do Milani?",
       "background": "#1d1d56",
       "color": "#c5438b"
     },
     {
-      "name": "Knockout Front-end Developer",
+      "name": "alo, é do Pilekinho Cousine?",
       "background": "#6f0201",
       "color": "#ffffff"
     },
     {
-      "name": "Jr PrimeFaces JSF Specialist",
+      "name": "e essa fileira de salgado bigode, é de que?",
       "background": "#30383c",
       "color": "#3fc5fe"
     },
     {
-      "name": "Sr Wix Site Developer",
+      "name": "aaah bano, olha essseeee linguiiiiiça....",
       "background": "#2f4150",
       "color": "#9f26ab"
     },
     {
-      "name": "Copypasta Manager",
+      "name": "meu mundo todinho ><",
       "background": "#CA5273",
       "color": "#FFF2D8"
-    },
-    {
-      "name": "Quantic Microfrontend Specialist",
-      "background": "#1E184C",
-      "color": "#479255"
-    },
-    {
-      "name": "Sr Australian Stylesheets Developer",
-      "background": "#00843D",
-      "color": "#FFCD00"
-    },
-    {
-      "name": "Sr Web Developer Intern",
-      "background": "#666bad",
-      "color": "#bad666"
-    },
-    {
-      "name": "Fullstack Designer",
-      "background": "#bad666",
-      "color": "#666bad"
-    },
-    {
-      "name": "Linux Exorcist",
-      "background": "#050607",
-      "color": "#ffffff",
-      "credits": {
-        "name": "Horacio Leon",
-        "url": "https://www.linkedin.com/in/horacioleonencina/"
-      }
-    },
-    {
-      "name": "Glorious Coder",
-      "background": "#5e7bf8",
-      "color": "#ffffff",
-      "credits": {
-        "name": "Rafael Camargo",
-        "url": "https://glorious.codes/"
-      }
-    },
-    {
-      "name": "WordPress Almighty Father",
-      "background": "white",
-      "color": "#117ac9",
-      "credits": {
-        "name": "Celso Fabri Jr",
-        "url": "https://celsofabri.github.io/"
-      }
-    },
-    {
-      "name": "Code wizardry creator",
-      "background": "#592b83",
-      "color": "#f49820"
-    },
-    {
-      "name": "Insitutional Website + Blog Creator",
-      "background": "#23d4d4",
-      "color": "#592769"
-    },
-    {
-      "name": "BBQ Developer",
-      "background": "#402828",
-      "color": "#debe17"
     }
   ]
 }

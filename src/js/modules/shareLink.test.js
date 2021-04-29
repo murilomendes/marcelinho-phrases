@@ -7,7 +7,7 @@ describe('shareLink', () => {
     const decoded = decodeURI(link);
 
     expect(decoded).toBe(
-      `https://twitter.com/intent/tweet?url=https://developertitles.com/&text=I'm the "${titleName}". Check your title at Developer Titles&related=juliolozovei&hashtags=developer,developertitles`
+      `https://twitter.com/intent/tweet?url=https://developertitles.com/&text=I'm the "${titleName}". Check your title at E pra hoje marcelinho?&related=juliolozovei&hashtags=developer,developertitles`
     );
   });
 });

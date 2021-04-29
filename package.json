@@ -1,7 +1,7 @@
 {
   "name": "developer-titles",
   "version": "0.0.1",
-  "description": "Fictional developer titles",
+  "description": "Fictional marcelinho phrases",
   "main": "",
   "scripts": {
     "test": "jest",

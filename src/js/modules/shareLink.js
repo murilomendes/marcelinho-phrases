@@ -6,7 +6,7 @@ const shareLink = titleName => {
   };
 
   return encodeURI(
-    `https://twitter.com/intent/tweet?url=${options.url}&text=I'm the "${titleName}". Check your title at Developer Titles&related=${options.username}&hashtags=${options.hashtags}`
+    `https://twitter.com/intent/tweet?url=${options.url}&text=I'm the "${titleName}". Check your title at E pra hoje marcelinho?&related=${options.username}&hashtags=${options.hashtags}`
   );
 };
 

@@ -1,14 +1,14 @@
-# :boom: Developer Titles
+# :boom: E pra hoje marcelinho?
 
-> `['fictional', 'awesome', 'random', 'funny', 'obsolete']` developer titles
+> `['fictional', 'awesome', 'random', 'funny', 'obsolete']` E pra hoje marcelinho?
 
 <br />
-<a href="https://www.producthunt.com/posts/developer-titles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-developer-titles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=178863&theme=dark" alt="Developer Titles - Awesome developer titles for bios, descriptions and statuses | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+<a href="https://www.producthunt.com/posts/developer-titles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-developer-titles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=178863&theme=dark" alt="E pra hoje marcelinho? - Awesome E pra hoje marcelinho? for bios, descriptions and statuses | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 <br />
 
 
 ## :scroll: About
-After years viewing crazy job and developer titles on social media, I've decided to merge them in a single website.
+After years viewing crazy job and E pra hoje marcelinho? on social media, I've decided to merge them in a single website.
 
 
 ## :gem: Stack
