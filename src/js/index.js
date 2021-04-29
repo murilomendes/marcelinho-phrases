@@ -23,7 +23,6 @@ import shareLink from './modules/shareLink';
 
       this.titleContainer = document.querySelector('.devtitle');
       this.refreshButton = document.querySelector('.refresh');
-      this.tweetButton = document.querySelector('.tweet');
 
       this.aboutButton = document.querySelectorAll('.about-btn');
       this.aboutModal = document.querySelector('.about');
@@ -108,8 +107,6 @@ import shareLink from './modules/shareLink';
 
         this.titleContainer.querySelector('.devtitle__credit').innerHTML = '';
       }
-
-      this.tweetButton.setAttribute('href', shareLink(randomized.name));
 
       analytics.sendEvent('Random title', {
         event_category: 'Title',
