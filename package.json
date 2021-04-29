@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlozovei/developer-titles.git"
+    "url": "git+https://github.com/murilomendes/marcelinho-phrases.git"
   },
-  "author": "Julio Lozovei <jlozovei@gmail.com>",
+  "author": "Murilo Mendes <mmendes090@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jlozovei/developer-titles/issues"
+    "url": "https://github.com/murilomendes/marcelinho-phrases/issues"
   },
-  "homepage": "https://github.com/jlozovei/developer-titles#readme",
+  "homepage": "https://github.com/murilomendes/marcelinho-phrases#readme",
   "devDependencies": {
     "@babel/core": "^7.6.2",
     "@babel/preset-env": "^7.6.2",
