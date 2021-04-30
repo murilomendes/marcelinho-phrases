@@ -1,8 +1,8 @@
 const shareLink = titleName => {
   const options = {
-    username: 'juliolozovei',
-    hashtags: 'developer,developertitles',
-    url: 'https://developertitles.com/'
+    username: 'murilomendes',
+    hashtags: 'developer,eprahojemarcelinho',
+    url: 'http://tudo-eu.com/'
   };
 
   return encodeURI(

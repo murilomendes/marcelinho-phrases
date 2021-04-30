@@ -1,6 +1,8 @@
 const webpack = require('webpack');
 const path = require('path');
 
+var SRC = path.resolve(__dirname, 'src/data/audios');
+
 const config = {
   devServer: {
     contentBase: path.join(__dirname, 'public'),
@@ -31,7 +33,12 @@ const config = {
           },
           'postcss-loader'
         ]
-      }
+      },
+      {
+        test: /\.mp3$/,
+        // include: SRC,
+        loader: 'file-loader'
+      },
     ]
   }
 };

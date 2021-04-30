@@ -33,7 +33,9 @@ import shareLink from './modules/shareLink';
     bindEvents() {
       this.randomTitle();
 
-      this.refreshButton.addEventListener('click', () => this.randomTitle());
+      this.refreshButton.addEventListener('click', () => {
+        this.randomTitle();
+      });
 
       for (const button of this.aboutButton) {
         button.addEventListener('click', () => {
@@ -72,13 +74,19 @@ import shareLink from './modules/shareLink';
       if (randomized.background) {
         document.body.style.backgroundColor = randomized.background;
         this.aboutModal.style.backgroundColor = randomized.background;
+
+        this.playSound(randomized.sound);
       } else {
         document.body.removeAttribute('style');
         this.aboutModal.removeAttribute('style');
       }
 
-      if (randomized.color) document.body.style.color = randomized.color;
-      else document.body.removeAttribute('style');
+      if (randomized.color) { 
+        document.body.style.color = randomized.color;
+      }
+      else { 
+        document.body.removeAttribute('style');
+      }
 
       if (randomized.credits) {
         const { credits } = randomized;
@@ -114,8 +122,14 @@ import shareLink from './modules/shareLink';
       });
     },
 
+    playSound(url) {
+      var player = new Audio(url);
+      player.play();
+    },
+
     goToTitle(index) {
       app.randomTitle(index);
+      this.playSound();
     }
   };
 

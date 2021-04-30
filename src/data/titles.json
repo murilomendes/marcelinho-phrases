@@ -3,117 +3,140 @@
     {
       "name": "Se tem uma coisa que eu não sou é obrigado",
       "background": "#E65D12",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/naosouobrigado.ogg"
     },
     {
       "name": "Os cara ficou sem entender nada",
       "background": "#141E30",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/sementender.ogg"
     },
     {
-      "name": "Se loco cachorro/cachorrera",
+      "name": "Se loco cachuera",
       "background": "#f12711",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/cachuera.ogg"
     },
     {
       "name": "Dexamo os cara em shock",
       "background": "#654ea3",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/dexamoemchoque.mp3"
     },
     {
       "name": "Alguma coisa GRAÇAS A DEUS",
       "background": "#ad5389",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/gracasadeus.ogg"
     },
     {
       "name": "Eu tô embassado",
       "background": "#dd1818",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/embassado.ogg"
     },
     {
       "name": "Ah mano, tudo eu?",
       "background": "#22BE4B",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/tudoeu.ogg"
     },
     {
       "name": "Aloja de Itapê",
       "background": "#F6A808",
-      "color": "#131415"
+      "color": "#131415",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/lajota+do+itape.ogg"
     },
     {
       "name": "Pera ae que a comida chegou he he he",
       "background": "#CECC9E",
-      "color": "#131415"
+      "color": "#131415",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/comida+chegou.ogg"
     },
     {
       "name": "M-E-I-O NÃO TROCA!",
       "background": "#114B55",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/meionaotroca.ogg"
     },
     {
       "name": "Ah bano, esse cara merece um câncer",
       "background": "#9F9F9F",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/merece+um+cancer.ogg"
     },
     {
       "name": "Se continuar xingando vou mutar vocês",
       "background": "#FEC9B1",
-      "color": "#131415"
+      "color": "#131415",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/vo+mutar+vcs.ogg"
     },
     {
       "name": "Fala agora vai, fala de mim agora",
       "background": "#f0d91c",
-      "color": "black"
+      "color": "black",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/fala+de+mim+ai.ogg"
     },
     {
       "name": "aaaa que posição idiota",
       "background": "#4B335F",
-      "color": "#23C7EB"
+      "color": "#23C7EB",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/posicao+idiota.ogg"
     },
     {
       "name": "vai se fude esse arrombado olha onde ele fica",
       "background": "#FDCF50",
-      "color": "#76040A"
+      "color": "#76040A",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/ondeelefica.ogg"
     },
     {
       "name": "num jogo mais com você(s)",
       "background": "#5c2626",
-      "color": "#fe0000"
+      "color": "#fe0000",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/naojogomais.ogg"
     },
     {
       "name": "ah mano que doente",
       "background": "#A8CFFE",
-      "color": "#0F0A58"
+      "color": "#0F0A58",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/que+doente.ogg"
     },
     {
       "name": "desinstalei ja essa bosta de jogo",
       "background": "#232425",
-      "color": "#78F54A"
+      "color": "#78F54A",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/ja+desinstalei.ogg"
     },
     {
       "name": "alo, é do Milani?",
       "background": "#1d1d56",
-      "color": "#c5438b"
+      "color": "#c5438b",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/milani.ogg"
     },
     {
       "name": "alo, é do Pilekinho Cousine?",
       "background": "#6f0201",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/ondeelefica.ogg"
     },
     {
       "name": "e essa fileira de salgado bigode, é de que?",
       "background": "#30383c",
-      "color": "#3fc5fe"
+      "color": "#3fc5fe",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/fileira+de+salgado.ogg"
     },
     {
       "name": "aaah bano, olha essseeee linguiiiiiça....",
       "background": "#2f4150",
-      "color": "#9f26ab"
+      "color": "#9f26ab",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/linguic%CC%A7a.ogg"
     },
     {
       "name": "meu mundo todinho ><",
       "background": "#CA5273",
-      "color": "#FFF2D8"
+      "color": "#FFF2D8",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/mundo+todinho.ogg"
     }
   ]
 }
