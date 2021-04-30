@@ -43,12 +43,6 @@
       "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/tudoeu.ogg"
     },
     {
-      "name": "Aloja de Itapê",
-      "background": "#F6A808",
-      "color": "#131415",
-      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/lajota+do+itape.ogg"
-    },
-    {
       "name": "Pera ae que a comida chegou he he he",
       "background": "#CECC9E",
       "color": "#131415",
@@ -118,7 +112,7 @@
       "name": "alo, é do Pilekinho Cousine?",
       "background": "#6f0201",
       "color": "#ffffff",
-      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/ondeelefica.ogg"
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/pilekinho.ogg"
     },
     {
       "name": "e essa fileira de salgado bigode, é de que?",
