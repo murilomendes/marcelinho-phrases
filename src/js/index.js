@@ -94,9 +94,6 @@ import shareLink from './modules/shareLink';
         let htmlString = '';
 
         htmlString += '<p>Credits to ';
-        if (credits.url)
-          htmlString += `<a href="${credits.url}" target="_blank" rel="noopener noreferrer">`;
-
         htmlString += `${credits.name}`;
 
         if (credits.url) htmlString += '</a>';

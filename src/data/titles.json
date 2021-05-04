@@ -131,6 +131,15 @@
       "background": "#CA5273",
       "color": "#FFF2D8",
       "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/mundo+todinho.ogg"
-    }
+    },
+    {
+      "name": "Ah vó me deixa ow!",
+      "background": "#6f0201",
+      "color": "#ffffff",
+      "sound": "https://tudo-eu.s3-us-west-2.amazonaws.com/ahvomedeixa.ogg",
+      "credits": {
+        "name": "Umberto do Eli"
+      }
+    }    
   ]
 }
