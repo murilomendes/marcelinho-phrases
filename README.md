@@ -53,37 +53,9 @@ npm start
 # or yarn start
 ```
 
-To add a new title, go to [`src/data/titles.json`](https://github.com/jlozovei/developer-titles/blob/master/src/data/titles.json) and add a new title object to the array. It's important the title to have, at least, the `name` key - because if the title hasn't a name, then it shouldn't be here; `background`, `color` and `credits` keys are optional.
-
-Here's how a new title object should look:
-
-```json
-{
-  "name": "Your title name",
-  "background": "Your title hex background",
-  "color": "Your title hex background",
-  "credits": {
-    "name": "Who you want to credit (name, nick or slug)",
-    "url": "The person's profile URL (linkedin, github...)"
-  }
-}
-```
-
 
 ## :warning: Disclaimer
 The goal here is to have fun. Don't use it to be a jerk on other people's work/job!
 
 > Have fun, stay cold!
 
-
-## :boom: Inspiration and Related Work
-When I was creating this site, I faced some related content on the internet. Like:
-
-- [Pseudo Design Titles](https://designtitles.com/)
-- [bullshit job titles generator](https://bullg.it/bullshit-job-titles/)
-- [@kutyel/superb-developer-titles](https://github.com/kutyel/superb-developer-titles)
-- [Silicon Valley Job Title Generator](https://siliconvalleyjobtitlegenerator.tumblr.com/)
-
-
-## :closed_lock_with_key: License
-Licensed under the [MIT](https://github.com/jlozovei/developer-titles/blob/master/LICENSE).
